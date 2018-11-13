@@ -1,0 +1,7 @@
+To ${CONTACT_NAME},
+
+
+${SHOE} is on sale for ${SP}.
+
+------
+Sent from Python Nike Shoe Price Monitor
